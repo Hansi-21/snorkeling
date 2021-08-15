@@ -7,7 +7,7 @@ function Header() {
       <div className="flex flex-wrap py-2">
         <div className="w-full ">
           <nav
-            style={{ backgroundColor: "#055052" }}
+            style={{ backgroundColor: "#035397" }}
             className="relative flex flex-wrap items-center justify-between px-2 py-3"
           >
             <div className="container px-1 mx-auto flex flex-wrap items-center justify-between">
