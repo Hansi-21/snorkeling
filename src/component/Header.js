@@ -4,7 +4,7 @@ import React from "react";
 function Header() {
   return (
     <>
-      <div className="flex flex-wrap py-2">
+      <div  className="flex flex-wrap py-2 ">
         <div className="w-full ">
           <nav
             style={{ backgroundColor: "#035397" }}
