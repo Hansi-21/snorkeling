@@ -24,7 +24,7 @@ function Header() {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="#about"
+                      href="#about-section"
                     >
                       About
                     </a>
@@ -32,7 +32,7 @@ function Header() {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="#book"
+                      href="#booking-section"
                     >
                       Book
                     </a>
@@ -40,7 +40,7 @@ function Header() {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="#reviews"
+                      href="#reviews-section"
                     >
                       Reviews
                     </a>
@@ -48,7 +48,7 @@ function Header() {
                   <li className="nav-item">
                     <a
                       className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                      href="#contact"
+                      href="#contact-section"
                     >
                       Contact
                     </a>

@@ -6,7 +6,7 @@ function Footer() {
 <footer style={{backgroundColor:"#035397"}}class=" dark:bg-gray-800 w-full py-8">
     <div class="max-w-screen-xl mx-auto px-4">
       
-        <div class="pt-8 flex max-w-xs mx-auto items-center justify-between">
+        <div id="contact-section" class="pt-8 flex max-w-xs mx-auto items-center justify-between">
             <a href="#" class="text-white hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
                 <svg width="20" height="20" fill="currentColor" class="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
                     <path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z">
@@ -39,7 +39,7 @@ function Footer() {
             </a>
         </div>
         <div class="text-center text-white dark:text-gray-200 pt-10 sm:pt-12 font-light flex items-center justify-center">
-            Created by Hansani Nimeshika
+            Developed by Hansani Nimeshika
         </div>
     </div>
 </footer>
