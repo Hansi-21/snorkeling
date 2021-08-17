@@ -67,7 +67,7 @@ function Main() {
       {/* End About Section  */}
 
       {/* Start Booking Section */}
-      <div  id="booking-section" class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center">
+      <div id="booking-section" class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center">
         <div class="w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
           <h2 class="text-1xl font-extrabold text-black dark:text-white sm:text-4xl">
             <span class="block">
@@ -96,19 +96,19 @@ function Main() {
             <div class="mt-12 rounded-md shadow">
               <a href="https://www.tripadvisor.com/AttractionProductReview-g1407334-d19985332-Snorkeling_Turtles_in_Mirissa-Mirissa_Southern_Province.html">
                 <button style={{ backgroundColor: "#035397" }} type="button" class="py-4 px-6  bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg ">
-                 Check Avalability
+                  Check Avalability
                 </button>
               </a>
             </div>
           </div>
         </div>
         <div class="flex items-center gap-8 p-8 lg:p-24">
-        <img src={about1} class="rounded-lg mb-8" alt="Tree" />
-         
+          <img src={about1} class="rounded-lg mb-8" alt="Tree" />
+
         </div>
-       
+
       </div>
-      
+
       {/* End Booking Section  */}
 
       {/* Start Review section */}
