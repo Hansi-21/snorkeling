@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/snorkeling/static/css/main.960bc317.chunk.css",
-    "main.js": "/snorkeling/static/js/main.3950c8a7.chunk.js",
-    "main.js.map": "/snorkeling/static/js/main.3950c8a7.chunk.js.map",
+    "main.js": "/snorkeling/static/js/main.ea4aa1b7.chunk.js",
+    "main.js.map": "/snorkeling/static/js/main.ea4aa1b7.chunk.js.map",
     "runtime-main.js": "/snorkeling/static/js/runtime-main.018c07cf.js",
     "runtime-main.js.map": "/snorkeling/static/js/runtime-main.018c07cf.js.map",
     "static/js/2.997912e2.chunk.js": "/snorkeling/static/js/2.997912e2.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.018c07cf.js",
     "static/js/2.997912e2.chunk.js",
     "static/css/main.960bc317.chunk.css",
-    "static/js/main.3950c8a7.chunk.js"
+    "static/js/main.ea4aa1b7.chunk.js"
   ]
 }
