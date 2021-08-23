@@ -31,7 +31,7 @@ function Main() {
       {/* Start About Section */}
       <div id="about-section" class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center">
         <div class="w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
-          <h2 class="text-1xl font-extrabold text-black dark:text-white sm:text-4xl">
+          <h2 class="text-1xl  text-black dark:text-white sm:text-4xl">
             <span class="block">
               About
             </span>
@@ -40,7 +40,7 @@ function Main() {
             Snorkeling is the practice of swimming on or through a body of water while equipped with a diving mask, a shaped breathing tube called a snorkel, and usually swimfins. In cooler waters, a wetsuit may also be worn. Use of this equipment allows the snorkeler to observe underwater attractions for extended periods with relatively little effort and to breathe while face-down at the surface.
           </p>
           <br />
-          <h4 class="font-extrabold">What to expect?</h4>
+          <h4 class="font-bold">What to expect?</h4>
           <br />
           <p>You can get a feel of nature and see a beauty of deep sea.Snorkeling is the practice of swimming on or through a body of water while equipped with a diving mask, a shaped breathing tube called a snorkel, and usually swimfins. In cooler waters, a wetsuit may also be worn. Use of this equipment allows the snorkeler to observe underwater attractions for extended periods with relatively little effort and to breathe while face-down at the surface.</p>
 
@@ -69,7 +69,7 @@ function Main() {
       {/* Start Booking Section */}
       <div id="booking-section" class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center">
         <div class="w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
-          <h2 class="text-1xl font-extrabold text-black dark:text-white sm:text-4xl">
+          <h2 class="text-1xl  text-black dark:text-white sm:text-4xl">
             <span class="block">
               Book Now
             </span>
@@ -114,7 +114,7 @@ function Main() {
       {/* Start Review section */}
       <div id="reviews-section" class="bg-white dark:bg-gray-800 overflow-hidden relative  lg:items-center">
         <div class="w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
-          <h2 class="text-1xl font-extrabold text-black dark:text-white sm:text-4xl">
+          <h2 class="text-1xl text-black dark:text-white sm:text-4xl">
             <span class="block">
               Reviews
             </span>
