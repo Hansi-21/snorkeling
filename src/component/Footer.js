@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
     return (
 
-        <footer style={{ backgroundColor: "#035397" }} class=" dark:bg-gray-800 w-full py-8">
+        <footer style={{ backgroundColor: "#035397", height:"5" }} class=" dark:bg-gray-800 w-full py-8 ">
             <div class="max-w-screen-xl mx-auto px-4">
 
                 <div id="contact-section" class="pt-8 flex max-w-xs mx-auto items-center justify-between">
